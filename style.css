@@ -79,6 +79,12 @@ section {
     right: -28px;
 }
 
+.blocks-main-caption {
+    margin: 30px 0;
+    text-align: center;
+    font-weight: 600;
+}
+
 .blocks-main {
     display: flex;
     margin-top: 20px;
@@ -174,7 +180,7 @@ ul.skills-list li {
 /***** CODE *****/
 
 code {
-    display: inline-block; 
+    display: inline-block;
     max-width: 100%;
     overflow-x: auto;
 }
@@ -223,7 +229,7 @@ img.big-icon {
         height: 1px;
         margin: -1px;
         padding: 0;
-        border: 0;        
+        border: 0;
         white-space: nowrap;
         clip-path: inset(100%);
         clip: rect(0 0 0 0);
